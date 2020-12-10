@@ -9,7 +9,8 @@
 <img  alt="Stargazers"  src="https://img.shields.io/github/stars/viniciusad/Game_Space?style=social">
 </a>
 </p>
-![Background do repositório](front-end.jpg)
+
+<img src="front-end.jpg">
 
 ## HTML
 [Dive Into HTML5](https://diveintohtml5.com.br)    
