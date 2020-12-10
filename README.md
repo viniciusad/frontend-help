@@ -1,3 +1,14 @@
+<p  align="left">
+<img  alt="GitHub language count"  src="https://img.shields.io/github/languages/count/viniciusad/Game_Space">
+<img  alt="Repository size"  src="https://img.shields.io/github/repo-size/viniciusad/Game_Space">
+<a  href="https://github.com/viniciusad/README-ecoleta/commits/master">
+<img  alt="GitHub last commit"  src="https://img.shields.io/github/last-commit/viniciusad/Game_Space">
+</a>
+<img  alt="License"  src="https://img.shields.io/badge/license-MIT-brightgreen">
+<a  href="https://github.com/viniciusad/Game_Space/stargazers">
+<img  alt="Stargazers"  src="https://img.shields.io/github/stars/viniciusad/Game_Space?style=social">
+</a>
+</p>
 ![Background do repositório](front-end.jpg)
 
 ## HTML
