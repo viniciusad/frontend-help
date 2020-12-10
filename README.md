@@ -1,4 +1,4 @@
-![Background do repositório](bg.png)
+![Background do repositório](front-end.jpg)
 
 ## HTML
 [Dive Into HTML5](https://diveintohtml5.com.br)    
